@@ -27,7 +27,7 @@
                             CKEDITOR.replace('<%=editor1.ClientID %>',
                 {
                     filebrowserBrowseUrl: '/ckfinder/ckfinder.html',
-                    filebrowserImageBrowseUrl: './News.ashx/',
+                    filebrowserImageBrowseUrl: './Upload.ashx/',
                     filebrowserFlashBrowseUrl: '/ckfinder/ckfinder.html?Type=Flash',
                     filebrowserUploadUrl: '/ckfinder/core/connector/aspx/connector.aspx?command=QuickUpload&type=Files',
                     filebrowserImageUploadUrl: './Upload.ashx',
